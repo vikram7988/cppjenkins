@@ -1,0 +1,13 @@
+This is a CPP project
+Make sure that g++ program is installed on machine.
+for exectution on unix based machines
+
+Compile and Run Program
+
+To compile C++ program hello.cpp, and create an executable file called hello, enter:
+
+g++ hello.cpp -o hello  
+
+To execute program first, enter:
+
+./hello
